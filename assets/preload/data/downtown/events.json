@@ -1,0 +1,39 @@
+{
+	"song": {
+		"speed": 2.00000000000002,
+		"stage": "forgor",
+		"player1": "bf kirby",
+		"player2": "kirby",
+		"player3": null,
+		"events": [
+			[
+				15600,
+				[
+					[
+						"Play Animation",
+						"hi",
+						"Dad"
+					]
+				]
+			],
+			[
+				28400,
+				[
+					[
+						"Hey!",
+						"HEY",
+						"BF"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 150,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "downtown"
+	}
+}
