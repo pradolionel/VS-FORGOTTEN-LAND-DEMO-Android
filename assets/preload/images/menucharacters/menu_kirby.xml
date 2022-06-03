@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menu_kirby.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="menu_kirby0000" x="0" y="0" width="266" height="183" frameX="0" frameY="-35" frameWidth="266" frameHeight="218"/>
+	<SubTexture name="menu_kirby0001" x="0" y="0" width="266" height="183" frameX="0" frameY="-35" frameWidth="266" frameHeight="218"/>
+	<SubTexture name="menu_kirby0002" x="266" y="0" width="266" height="210" frameX="0" frameY="-8" frameWidth="266" frameHeight="218"/>
+	<SubTexture name="menu_kirby0003" x="266" y="0" width="266" height="210" frameX="0" frameY="-8" frameWidth="266" frameHeight="218"/>
+	<SubTexture name="menu_kirby0004" x="532" y="0" width="266" height="209" frameX="0" frameY="-9" frameWidth="266" frameHeight="218"/>
+	<SubTexture name="menu_kirby0005" x="532" y="0" width="266" height="209" frameX="0" frameY="-9" frameWidth="266" frameHeight="218"/>
+	<SubTexture name="menu_kirby0006" x="0" y="210" width="266" height="210" frameX="0" frameY="-8" frameWidth="266" frameHeight="218"/>
+	<SubTexture name="menu_kirby0007" x="0" y="210" width="266" height="210" frameX="0" frameY="-8" frameWidth="266" frameHeight="218"/>
+	<SubTexture name="menu_kirby0008" x="266" y="210" width="266" height="218"/>
+	<SubTexture name="menu_kirby0009" x="266" y="210" width="266" height="218"/>
+	<SubTexture name="menu_kirby0010" x="266" y="210" width="266" height="218"/>
+	<SubTexture name="menu_kirby0011" x="266" y="210" width="266" height="218"/>
+	<SubTexture name="menu_kirby0012" x="266" y="210" width="266" height="218"/>
+	<SubTexture name="menu_kirby0013" x="266" y="210" width="266" height="218"/>
+</TextureAtlas>
