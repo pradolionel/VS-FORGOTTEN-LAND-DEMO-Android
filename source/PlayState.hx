@@ -927,6 +927,9 @@ class PlayState extends MusicBeatState
 		iconP2.cameras = [camHUD];
 		scoreTxt.cameras = [camHUD];
 		botplayTxt.cameras = [camHUD];
+		timeBar.cameras = [camHUD];
+		timeBarBG.cameras = [camHUD];
+		timeTxt.cameras = [camHUD];
 		doof.cameras = [camHUD];
 
 		#if mobileC
@@ -2904,6 +2907,9 @@ class PlayState extends MusicBeatState
 		#if mobileC
 		mcontrols.visible = false;
 		#end
+		timeBarBG.visible = false;
+		timeBar.visible = false;
+		timeTxt.visible = false;
 		canPause = false;
 		endingSong = true;
 		camZooming = false;
